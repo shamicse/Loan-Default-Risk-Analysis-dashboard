@@ -1,0 +1,5 @@
+dti_ratio_bucket,total_loan,total_default,default_percent
+0-19,48,8,16.67
+30-39,78,10,12.82
+40-49,107,12,11.21
+50+,368,116,31.52
