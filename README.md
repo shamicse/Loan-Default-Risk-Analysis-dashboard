@@ -124,3 +124,9 @@
 5. **Employment Status** — weak standalone signal; better used as a supporting factor.
 6. **Loan Amount** — not predictive of default; roughly equal across defaulted and non-defaulted loans.
 
+## Dashboard Screenshot
+<img width="1373" height="797" alt="Image" src="https://github.com/user-attachments/assets/8b02bb0b-ac7d-4469-8d32-9ef9cabe81a7" />
+
+## live dashboard
+https://app.powerbi.com/groups/me/reports/f6dccb9d-6a95-4191-940f-38b8f1b5a053/dc4a29fc385d7866806b?experience=power-bi
+
